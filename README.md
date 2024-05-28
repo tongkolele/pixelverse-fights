@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/AirDropFamilyIDN/pixelverse-fights.git
 cd pixelverse-fights
-pip install requirements.txt
+pip install -r requirements.txt
 python main.py
 
 ```
