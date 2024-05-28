@@ -14,4 +14,4 @@ python main.py
 
 ```
 # TUTORIAL VIDEO
-
+- https://t.me/AirdropFamilyIDN
